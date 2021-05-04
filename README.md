@@ -1,0 +1,2 @@
+# wordy
+Personal word pool.
